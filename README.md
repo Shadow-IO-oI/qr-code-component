@@ -1,7 +1,7 @@
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [O_o](https://github.com/Shadow-IO-oI/qr-code-component)
+- Live Site URL: [^_^](https://qr-code-component-a5g4.vercel.app)
 
 ## My process
 
